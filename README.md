@@ -1,5 +1,5 @@
-# 1. Uber-Trip-Analysis-Dashboard
-🚖 **RidePulse Analytics: Uber Trip Performance & Demand Insights Dashboard**
+# Uber-Trip-Analysis-Dashboard
+## 1. RidePulse Analytics: Uber Trip Performance & Demand Insights Dashboard
 An interactive Power BI dashboard designed to analyze Uber trip data—focusing on bookings, revenue, trip distance, time-based demand patterns, vehicle performance, payment methods, and location insights.
 
 ## 2. Purpose
@@ -88,3 +88,6 @@ This supports better driver scheduling and operational optimization.
 * **Operational Planning:** Supports better trip allocation between day and night shifts
 * **Location Intelligence:** Reveals high-demand pickup and drop-off zones
 * **Strategic Decision-Making:** Transforms raw trip data into clear, actionable insights through intuitive visuals
+
+## 5. Dashboard Preview
+  https://github.com/FaseehHaider-Dev/Uber-Trip-Analysis-Dashboard/blob/main/Uber%20Drive%20Dashboard%20Overview%20Analysis.png
