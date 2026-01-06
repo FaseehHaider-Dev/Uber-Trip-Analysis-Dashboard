@@ -91,5 +91,6 @@ This supports better driver scheduling and operational optimization.
 
 ## 5. Dashboard Preview
 ![image alt](https://github.com/FaseehHaider-Dev/Uber-Trip-Analysis-Dashboard/blob/main/Uber%20Drive%20Dashboard%20Overview%20Analysis.png?raw=true)
+![image alt](https://github.com/FaseehHaider-Dev/Uber-Trip-Analysis-Dashboard/blob/main/Uber%20Drive%20Dashboard%20Time%20Analysis%20Total%20Booking.png?raw=true)
 
 
