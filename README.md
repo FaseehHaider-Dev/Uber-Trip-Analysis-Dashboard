@@ -90,4 +90,5 @@ This supports better driver scheduling and operational optimization.
 * **Strategic Decision-Making:** Transforms raw trip data into clear, actionable insights through intuitive visuals
 
 ## 5. Dashboard Preview
-  https://github.com/FaseehHaider-Dev/Uber-Trip-Analysis-Dashboard/blob/main/Uber%20Drive%20Dashboard%20Overview%20Analysis.png
+  <img width="1450" height="774" alt="Uber Drive Dashboard Overview Analysis" src="https://github.com/user-attachments/assets/e8c92ad4-b9ad-4d1e-9f52-c9103f5b4ce6" />
+
