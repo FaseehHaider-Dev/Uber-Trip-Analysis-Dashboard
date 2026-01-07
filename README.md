@@ -133,4 +133,9 @@ Visualizes booking density across days and hours, helping identify:
 
 ## 7. Author
 **Faseeh Haider**  
-**Power BI Developer**
+Power BI Developer | Business Intelligence Analyst  
+
+📧 Email: Faseehhaider690@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/your-profile  
+🌐 GitHub: https://github.com/FaseehHaider-Dev
+
