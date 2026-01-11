@@ -35,7 +35,7 @@ The dashboard was developed using the following tools and technologies:
 
 ---
 
-## 5. Features / Highlights
+## 4. Features / Highlights
 
 ### • Business Problem
 Ride-hailing platforms generate massive volumes of trip data daily, but without effective visualization, it becomes difficult to answer key business questions such as:
