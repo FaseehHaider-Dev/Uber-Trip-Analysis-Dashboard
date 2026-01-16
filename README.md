@@ -136,6 +136,6 @@ Visualizes booking density across days and hours, helping identify:
 Power BI Developer | Business Intelligence Analyst  
 
 📧 Email: Faseehhaider690@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/your-profile  
+💼 LinkedIn: http://www.linkedin.com/in/faseehhaider-dev  
 🌐 GitHub: https://github.com/FaseehHaider-Dev
 
